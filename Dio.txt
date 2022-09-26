@@ -1,0 +1,31 @@
+Desafio Dio:
+Compreender o papel dos Bancos de Dados Relacionais (SQL) e Não Relacionais (NoSQL) no contexto de um Engenheiro de Dados. 
+
+O QUE É SQL?:
+
+É uma linguagem para manipulação de dados, ou seja, criar, atualizar, consultar e excluir.
+Alem de ser uma Lingugem de consulta estruturada(Structured Query Language), em tradução livre.
+Usada em Banco de Dados relacionais.
+Alguns SGBD que utiliza são:
+MySQL;
+PostegreSQL;
+Oracle.
+
+
+O QUE É NoSQL?:
+
+Eficiência para armazenamento de grande volume de dados.
+Um sistema de dados não relacional.
+Um exeplo de banco não relacional é o MongoDB.
+O dados são armazenados de maneira livre, diferente do SQL que possui um estrutura rígida.
+SISTEMA DE GERENCIAMENTO DE BANCO DE DADOS (SGBD)
+
+SGBDs - São sistemas informatizados, um conjunto de softwares responsáveis por administrar e gerenciar os repositórios de dados, a base de dados, os bancos de dados. Os sistemas SGBDs são responsáveis por disponibilizar e administrar inclusões, alterações e consultas aos dados armazenados nos bancos de dados.
+
+Dados - Informações úteis que necessitamos guardar e acessar.
+
+Banco de dados - Repositórios onde são guardadas/armazenadas informações úteis(dados), um conjunto de dados que tem contexto, coerência e propósito. São coleções organizadas de informações estruturadas(dados) relacionadas entre sí, normalmente armazenadas eletronicamente em um sistema de computação.
+
+
+
+
